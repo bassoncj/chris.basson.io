@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bassoncj.github.com/chris.basson.io/sitemap.xml
