@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Chris Basson</title>
-    <link href="https://bassoncj.github.com/chris.basson.io/feed.xml" rel="self" />
-    <link href="https://bassoncj.github.com/chris.basson.io" />
+    <link href="https://chris.basson.io/feed.xml" rel="self" />
+    <link href="https://chris.basson.io" />
     <updated>2025-04-23T12:50:58+02:00</updated>
     <author>
         <name>Chris Basson</name>
     </author>
-    <id>https://bassoncj.github.com/chris.basson.io</id>
+    <id>https://chris.basson.io</id>
 
     <entry>
         <title>Not All Transparency is Created Equal</title>
         <author>
             <name>Chris Basson</name>
         </author>
-        <link href="https://bassoncj.github.com/chris.basson.io/not-all-transparency-is-created-equal.html"/>
-        <id>https://bassoncj.github.com/chris.basson.io/not-all-transparency-is-created-equal.html</id>
+        <link href="https://chris.basson.io/not-all-transparency-is-created-equal.html"/>
+        <id>https://chris.basson.io/not-all-transparency-is-created-equal.html</id>
             <category term="culture"/>
             <category term="Posts"/>
 
@@ -61,8 +61,8 @@
         <author>
             <name>Chris Basson</name>
         </author>
-        <link href="https://bassoncj.github.com/chris.basson.io/what-kind-of-team-are-you-joining.html"/>
-        <id>https://bassoncj.github.com/chris.basson.io/what-kind-of-team-are-you-joining.html</id>
+        <link href="https://chris.basson.io/what-kind-of-team-are-you-joining.html"/>
+        <id>https://chris.basson.io/what-kind-of-team-are-you-joining.html</id>
             <category term="culture"/>
             <category term="Posts"/>
 
@@ -95,8 +95,8 @@
         <author>
             <name>Chris Basson</name>
         </author>
-        <link href="https://bassoncj.github.com/chris.basson.io/how-i-think-about-agile-kanban-and-the-rest.html"/>
-        <id>https://bassoncj.github.com/chris.basson.io/how-i-think-about-agile-kanban-and-the-rest.html</id>
+        <link href="https://chris.basson.io/how-i-think-about-agile-kanban-and-the-rest.html"/>
+        <id>https://chris.basson.io/how-i-think-about-agile-kanban-and-the-rest.html</id>
             <category term="product"/>
             <category term="Posts"/>
 
@@ -157,8 +157,8 @@
         <author>
             <name>Chris Basson</name>
         </author>
-        <link href="https://bassoncj.github.com/chris.basson.io/work-life-dependencies-2.html"/>
-        <id>https://bassoncj.github.com/chris.basson.io/work-life-dependencies-2.html</id>
+        <link href="https://chris.basson.io/work-life-dependencies-2.html"/>
+        <id>https://chris.basson.io/work-life-dependencies-2.html</id>
             <category term="productivity"/>
             <category term="Posts"/>
 
