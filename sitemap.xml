@@ -22,7 +22,7 @@
 </url>
 <url>
 <loc>https://chris.basson.io/about.html</loc>
-<lastmod>2025-04-23T16:28:45+02:00</lastmod>
+<lastmod>2025-04-24T11:23:05+02:00</lastmod>
 </url>
 <url>
 <loc>https://chris.basson.io/ai.html</loc>
@@ -30,11 +30,11 @@
 </url>
 <url>
 <loc>https://chris.basson.io/career.html</loc>
-<lastmod>2025-04-23T17:08:38+02:00</lastmod>
+<lastmod>2025-04-23T17:22:36+02:00</lastmod>
 </url>
 <url>
 <loc>https://chris.basson.io/now.html</loc>
-<lastmod>2025-04-23T16:31:08+02:00</lastmod>
+<lastmod>2025-04-24T11:21:06+02:00</lastmod>
 </url>
 <url>
 <loc>https://chris.basson.io/cat.html</loc>
@@ -71,5 +71,9 @@
 <image:loc>https://chris.basson.io/media/posts/22/gallery/20241221_190111-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://chris.basson.io/uses.html</loc>
+<lastmod>2025-04-24T12:47:39+02:00</lastmod>
 </url>
 </urlset>
