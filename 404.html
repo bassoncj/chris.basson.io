@@ -17,8 +17,10 @@
       const body = document.body;
       const savedMode = localStorage.getItem('darkMode');
     
-      if (savedMode === 'enabled' || savedMode === null) {
-        // If dark mode was saved OR first visit
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    
+      // Apply saved preference, or fallback to system preference
+      if (savedMode === 'enabled' || (savedMode === null && prefersDark)) {
         body.classList.add('dark-mode');
         toggle.innerText = 'Light Mode';
       } else {
